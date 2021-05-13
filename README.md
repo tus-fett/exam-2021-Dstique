@@ -82,11 +82,13 @@ WAN | 2 | 192.168.100.144/30 | 192.168.100.145/30 | 192.168.100.146/30 | 192.168
 
 
 
-[Линк към изображение на схемата в CPT](https://1drv.ms/u/s!Agjkr6S3vTvSg8FLWhKogzSI3bnKMg?e=qYLcaZ)
+[Линк към изображение на схемата в CPT](https://1drv.ms/u/s!Agjkr6S3vTvSg8FS9YKPUnlrZ-z_pQ?e=UEV4xq)
 
-[Линк към скрийншот на тестването на свързаност (PC към PC)](https://1drv.ms/u/s!Agjkr6S3vTvSg8FMYffP_rxnMoeRjA?e=KNdhtw)
+[Линк към скрийншот на тестването на свързаност (PC към PC)](https://1drv.ms/u/s!Agjkr6S3vTvSg8FQw-FqYAR-QwHjDQ?e=a8G6LS)
 
-[Линк към скрийншот на тестването на свързаност (PC към рутери)](https://1drv.ms/u/s!Agjkr6S3vTvSg8FNdvFqJgZ_CdX23g?e=2fiFWP)
+[Линк към скрийншот на тестването на свързаност (PC към рутери)](https://1drv.ms/u/s!Agjkr6S3vTvSg8FRh2tBPXk3VwQDHQ?e=OyuyXb)
 
 [Линк към драйва ми с всички генерирани файлове по заданието](https://1drv.ms/u/s!Agjkr6S3vTvSg8FHvobFYPD5mRobQg?e=Fn5voq)
+
+Едит 2: Поправени линкове
 
